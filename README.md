@@ -1,2 +1,3 @@
-# sudoku_solver
-A Sudoku solver in C
+# Sudoku
+A Sudoku solver in C. 
+The file puzzle.txt is the format the sudoku must be in.
